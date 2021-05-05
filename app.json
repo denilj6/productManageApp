@@ -1,0 +1,12 @@
+{
+  "name": "ProductManagement",
+  "displayName": "ProductManagement",
+  "expo": {
+    "name": "ProductManagement",
+    "slug": "ProductManagement",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
